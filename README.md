@@ -1,11 +1,12 @@
-<div align="center">
-    <h1>Avant-Garde Énergétique</h1>
-    <h3>Project Turnkey: Enhancing Retention for a Thriving Workforce</h3>
+<div class='header' align="center">
+    <h1>Advanced Energy</h1>
+    <h3>Enhancing Retention for a Thriving Workforce</h3>
 </div>
+
 
 ### About the Company
 
-Avant-Garde Énergétique (AE), a French-based manufacturer of alternative energy vehicles, boasts a workforce exceeding 100,000 employees. They are dedicated to every aspect of the vehicle production process, including research, design, construction, validation, and distribution of electric, solar, algae, and hydrogen-powered vehicles. Through their comprehensive vertical integration model, AE has ascended to a position of global prominence, standing at the forefront of the convergence between alternative energy solutions and the automotive industry.
+Advanced Energy (AE), a French-based manufacturer of alternative energy vehicles, boasts a workforce exceeding 100,000 employees. They are dedicated to every aspect of the vehicle production process, including research, design, construction, validation, and distribution of electric, solar, algae, and hydrogen-powered vehicles. Through their comprehensive vertical integration model, AE has ascended to a position of global prominence, standing at the forefront of the convergence between alternative energy solutions and the automotive industry.
 
 ### Scenario
 
