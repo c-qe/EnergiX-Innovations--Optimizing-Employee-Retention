@@ -33,7 +33,7 @@ EI is currently experiencing a significant turnover rate among its employees, in
 > - Maintain comprehensive documentation of methodologies, data, model development, and findings.
 > - Generate detailed reports summarizing insights, recommendations, and the predictive model's performance.
 >   
-> ![](https://geps.dev/progress/5)
+> ![](https://geps.dev/progress/100)
 
 
 
