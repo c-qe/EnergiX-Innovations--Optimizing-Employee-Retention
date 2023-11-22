@@ -19,7 +19,7 @@ EI is currently experiencing a significant turnover rate among its employees, in
 > - Analyze the model outcomes to pinpoint the primary factors influencing turnover.
 > - Formulate actionable strategies to enhance retention based on the model's findings (e.g., improving work conditions, fostering career development, enhancing management practices).
 > 
-> ![](https://geps.dev/progress/50)
+> ![](https://geps.dev/progress/100)
 
 > ### Model Development and Evaluation
 > - Experiment with statistical models (e.g., logistic regression) and machine learning techniques (e.g., decision trees, random forests, XGBoost) to predict employee turnover.
