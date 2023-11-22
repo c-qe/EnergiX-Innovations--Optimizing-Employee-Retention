@@ -19,13 +19,13 @@ EI is currently experiencing a significant turnover rate among its employees, in
  
 ![](https://geps.dev/progress/100)
 
-> ### Model Development and Evaluation
-> - Experiment with statistical models (e.g., logistic regression) and machine learning techniques (e.g., decision trees, random forests, XGBoost) to predict employee turnover.
-> - Apply k-fold cross-validation to assess model performance and prevent overfitting.
-> - Implement the predictive model in a controlled environment for testing and validation.
-> - Regularly update and improve the model based on new data and feedback.
-> 
-> ![](https://geps.dev/progress/60)
+### Model Development and Evaluation
+- Experiment with statistical models (e.g., logistic regression) and machine learning techniques (e.g., decision trees, random forests, XGBoost) to predict employee turnover.
+- Apply k-fold cross-validation to assess model performance and prevent overfitting.
+- Implement the predictive model in a controlled environment for testing and validation.
+- Regularly update and improve the model based on new data and feedback.
+- 
+![](https://geps.dev/progress/60)
 
 ### Documentation
 - Maintain comprehensive documentation of methodologies, data, model development, and findings.
