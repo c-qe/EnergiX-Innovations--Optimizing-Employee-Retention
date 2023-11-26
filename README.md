@@ -1,4 +1,4 @@
-![](https://geps.dev/progress/60)
+![](https://geps.dev/progress/100)
 
 <div class='header' align="center">
     <h1>Optimizing Employee Retention at EnergiX</h1>
